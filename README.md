@@ -44,5 +44,4 @@ Este projeto foi desenvolvido para praticar e consolidar habilidades em desenvol
 
 ## 🔗 Links Úteis
 
-- [Visualizar o Projeto](URL_DO_PROJETO)
-- [Meu GitHub](https://github.com/VitorRayol)
+- [Visualizar o Projeto](https://dominio-criado.surge.sh/)
